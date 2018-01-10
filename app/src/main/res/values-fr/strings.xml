@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmsProgrammer</string>
+    <string name="program_send">Programmer envoi</string>
+    <string name="validate">Valider</string>
+    <string name="contactFirstName">Prenom contact</string>
+    <string name="contactLastName">Nom contact</string>
+    <string name="contactMobilePhoneNumber">Numéro de téléphone</string>
+    <string name="contactDisplayName">Nom Complet du contact</string>
+    <string name="message_content_hint">Contenu du message</string>
+    <string name="contact_fields">Champs du contact</string>
+    <string name="no_message_programmed">Aucun message programmé</string>
+    <string name="dialog_confirmation_delete_title">Deprogrammer sms</string>
+    <string name="dialog_confirmation_delete_content">Voulez vous vraiment déprogrammer ce sms?</string>
+    <string name="dialog_confirmation_delete_yes">Oui</string>
+    <string name="dialog_confirmation_delete_no">Non</string>
+</resources>

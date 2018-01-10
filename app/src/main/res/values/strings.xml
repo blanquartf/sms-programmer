@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmsProgrammer</string>
+    <string name="program_send">Program Sms</string>
+    <string name="validate">Validate</string>
+    <string name="contactFirstName">Contact first name</string>
+    <string name="contactLastName">Contact last name</string>
+    <string name="contactMobilePhoneNumber">Contact mobile phone number</string>
+    <string name="contactDisplayName">Contact display name</string>
+    <string name="message_content_hint">Message content</string>
+    <string name="contact_fields">Contact fields</string>
+    <string name="no_message_programmed">No message programmed</string>
+    <string name="dialog_confirmation_delete_title">Unschedule sms</string>
+    <string name="dialog_confirmation_delete_content">Do you really want to unschedule that message?</string>
+    <string name="dialog_confirmation_delete_yes">Yes</string>
+    <string name="dialog_confirmation_delete_no">No</string>
+</resources>
